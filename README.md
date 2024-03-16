@@ -14,7 +14,7 @@ LaneDetect is a Python-based project aimed at implementing road lane detection u
 # Installation
 Clone the repository:
 
-git clone https://github.com/Shantanupawar77/LaneDetect.git
+git clone https://github.com/Shantanupawar77/LaneDetect-Road-Lane-Detection-System.git
 Install dependencies:
 
 pip install -r requirements.txt
